@@ -1,3 +1,2 @@
 # Dijkstra-s-Algorithm
-
-https://dijkstraalgorithm.netlify.app/
+https://abhimanyusah-dijkstra.netlify.app/
